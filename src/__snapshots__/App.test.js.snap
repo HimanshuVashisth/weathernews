@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App has a valid snapshot 1`] = `null`;
+
+exports[`Button has a valid snapshot 1`] = `
+<button
+  className=""
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Search has a valid snapshot 1`] = `
+<form>
+  <input
+    type="text"
+  />
+  <button
+    type="submit"
+  >
+    Search
+  </button>
+</form>
+`;
+
+exports[`Table has a valid snapshot 1`] = `
+<div
+  className="table"
+>
+  <li>
+    <div
+      className="table-row"
+    >
+      <span
+        style={
+          Object {
+            "largeColumn": Object {
+              "width": "40%",
+            },
+          }
+        }
+      >
+        <a
+          href="1"
+        >
+           
+          1
+        </a>
+      </span>
+      <span
+        style={
+          Object {
+            "midColumn": Object {
+              "width": "30%",
+            },
+          }
+        }
+      >
+        1
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        1
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        2
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Dismiss
+        </button>
+      </span>
+    </div>
+  </li>
+  <li>
+    <div
+      className="table-row"
+    >
+      <span
+        style={
+          Object {
+            "largeColumn": Object {
+              "width": "40%",
+            },
+          }
+        }
+      >
+        <a
+          href="2"
+        >
+           
+          2
+        </a>
+      </span>
+      <span
+        style={
+          Object {
+            "midColumn": Object {
+              "width": "30%",
+            },
+          }
+        }
+      >
+        2
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        1
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        2
+      </span>
+      <span
+        style={
+          Object {
+            "smallColumn": Object {
+              "width": "10%",
+            },
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Dismiss
+        </button>
+      </span>
+    </div>
+  </li>
+</div>
+`;
